@@ -1,0 +1,10 @@
+.header {
+	top: 20px;
+	position: sticky;
+	.menu {
+		height: 112px;
+		border-radius: 100px;
+		background-color: $primary;
+		padding: 1.3rem 2.8rem;
+	}
+}
