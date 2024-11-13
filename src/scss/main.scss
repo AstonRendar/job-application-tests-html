@@ -1,0 +1,13 @@
+// utilities
+@import "utilities/variables";
+
+// vendor
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// pages
+@import "pages/landing";
+
+// components
+@import "components/header";
+@import "components/footer";
+@import "components/button";
